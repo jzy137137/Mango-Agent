@@ -1,0 +1,13 @@
+{
+  "mango_python": "C:/Users/hp/Documents/Codex/2026-11-03/new-chat/work/mango-pyenv/Scripts/python.exe",
+  "mango_source": "C:/Users/hp/Documents/Codex/2026-11-03/new-chat/work/unpacked/operation-mango-public-master/package",
+  "results": "C:/Users/hp/Documents/Codex/2026-11-03/new-chat/work/mango-results/cmdi_results.json",
+  "ida_url": "http://127.0.0.1:13337/mcp",
+  "llm_base_url": "",
+  "llm_model": "",
+  "api_key_env": "MANGO_AGENT_API_KEY",
+  "max_rounds": 6,
+  "max_tool_calls": 16,
+  "max_evidence_chars": 18000,
+  "timeout_seconds": 90
+}
